@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-21 22:20+0000\n"
-"PO-Revision-Date: 2025-10-22 05:26+0000\n"
+"PO-Revision-Date: 2025-10-22 09:59+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
 "printers/sv/>\n"
@@ -50,7 +50,7 @@ msgstr "Inställningar och utrustning"
 
 #: src/PrinterPage.vala:49
 msgid "Set as Default"
-msgstr ""
+msgstr "Sätt som standard"
 
 #: src/PrinterPage.vala:53
 msgid "Print Test Page"
@@ -114,10 +114,8 @@ msgid "Next"
 msgstr "Nästa"
 
 #: src/Dialogs/AddDialog.vala:107
-#, fuzzy
-#| msgid "Network Printers"
 msgid "Select Printer"
-msgstr "Nätverksskrivare"
+msgstr "Välj skrivare"
 
 #. Shows the error panel
 #: src/Dialogs/AddDialog.vala:210
@@ -126,47 +124,39 @@ msgstr "Omöjligt att lista alla tillgängliga skrivare"
 
 #: src/Dialogs/AddDialog.vala:230
 msgid "Setup Error"
-msgstr ""
+msgstr "Setup fel"
 
 #: src/Dialogs/AddDialog.vala:246
-#, fuzzy
-#| msgid "Connection:"
 msgid "Connection"
-msgstr "Anslutning:"
+msgstr "Anslutning"
 
 #: src/Dialogs/AddDialog.vala:251
 msgid "Connection uri must contain “://“"
-msgstr ""
+msgstr "Anslutnings-uri måste innehålla \"://\""
 
 #: src/Dialogs/AddDialog.vala:258 src/Views/SuppliesView.vala:25
 msgid "BrandPrinter X3000"
 msgstr "BrandPrinter X3000"
 
 #: src/Dialogs/AddDialog.vala:262 src/Views/SuppliesView.vala:28
-#, fuzzy
-#| msgid "Description:"
 msgid "Description"
-msgstr "Beskrivning:"
+msgstr "Beskrivning"
 
 #: src/Dialogs/AddDialog.vala:267
 msgid "Description cannot be empty"
-msgstr ""
+msgstr "Beskrivning får inte vara tom"
 
 #: src/Dialogs/AddDialog.vala:273
 msgid "Lab 1 or John's desk"
 msgstr "Labb 1 eller Svens skrivbord"
 
 #: src/Dialogs/AddDialog.vala:276 src/Views/SuppliesView.vala:36
-#, fuzzy
-#| msgid "Location:"
 msgid "Location"
-msgstr "Plats:"
+msgstr "Plats"
 
 #: src/Dialogs/AddDialog.vala:304
-#, fuzzy
-#| msgid "Processing…"
 msgid "Loading…"
-msgstr "Processar…"
+msgstr "Läser in…"
 
 #: src/Dialogs/AddDialog.vala:337
 msgid "Back"
@@ -177,10 +167,8 @@ msgid "Add Printer"
 msgstr "Lägg till skrivare"
 
 #: src/Dialogs/AddDialog.vala:382
-#, fuzzy
-#| msgid "Page Setup"
 msgid "Printer Setup"
-msgstr "Siduppsättning"
+msgstr "Inställning av skrivare"
 
 #: src/Dialogs/AddDialog.vala:654
 msgid "Serial"
@@ -205,12 +193,14 @@ msgstr "(rekommenderad)"
 #: src/Dialogs/ClearQueueDialog.vala:16
 #, c-format
 msgid "Clear all pending and completed jobs from “%s”?"
-msgstr ""
+msgstr "Ta bort alla väntande och slutförda jobb från \"%s\"?"
 
 #: src/Dialogs/ClearQueueDialog.vala:17
 msgid ""
 "All unfinished jobs will be canceled and all print history will be erased."
 msgstr ""
+"Alla oavslutade jobb kommer att avbrytas och all utskriftshistorik kommer "
+"att raderas."
 
 #: src/Dialogs/ClearQueueDialog.vala:22 src/Views/JobsView.vala:37
 msgid "Clear All"
@@ -235,52 +225,39 @@ msgid "Remove"
 msgstr "Ta bort"
 
 #: src/Objects/Job.vala:142
-#, fuzzy
-#| msgid "Job Pending"
 msgctxt "Print Job"
 msgid "Pending"
-msgstr "Utskrift väntar"
+msgstr "Väntande"
 
 #: src/Objects/Job.vala:144
-#, fuzzy
-#| msgid "On Hold"
 msgctxt "Print Job"
 msgid "On Hold"
-msgstr "I kö"
+msgstr "Pausad"
 
 #: src/Objects/Job.vala:146
 msgctxt "Print Job"
 msgid "In Progress"
-msgstr ""
+msgstr "Pågående"
 
 #: src/Objects/Job.vala:148
-#, fuzzy
-#| msgctxt "printer state"
-#| msgid "Stopped"
 msgctxt "Print Job"
 msgid "Stopped"
 msgstr "Stoppad"
 
 #: src/Objects/Job.vala:150
-#, fuzzy
-#| msgid "Cancel"
 msgctxt "Print Job"
 msgid "Canceled"
-msgstr "Avbryt"
+msgstr "Avbruten"
 
 #: src/Objects/Job.vala:152
-#, fuzzy
-#| msgid "Job Aborted"
 msgctxt "Print Job"
 msgid "Aborted"
-msgstr "Utskrift avbruten"
+msgstr "Avbruten"
 
 #: src/Objects/Job.vala:155
-#, fuzzy
-#| msgid "Job Completed"
 msgctxt "Print Job"
 msgid "Completed"
-msgstr "Utskrift fullföljd"
+msgstr "Slutförd"
 
 #. / Translators: The printer is low on toner
 #: src/Objects/Printer.vala:45
@@ -379,9 +356,8 @@ msgid "The optical photo conductor is no longer functioning"
 msgstr "Den optiska fotoledaren fungerar inte längre"
 
 #: src/Objects/Printer.vala:149
-#, fuzzy
 msgid "Unnamed Printer"
-msgstr "Lägg till skrivare"
+msgstr "Namnlös skrivare"
 
 #: src/Objects/Printer.vala:222
 msgid "Ready"
@@ -404,16 +380,14 @@ msgid "Pages per side:"
 msgstr "Sida per blad:"
 
 #: src/Views/SetupView.vala:66
-#, fuzzy
 msgctxt "printing option value"
 msgid "Long Edge (Standard)"
-msgstr "Långsida (standard)"
+msgstr "Lång kant (standard)"
 
 #: src/Views/SetupView.vala:68
-#, fuzzy
 msgctxt "printing option value"
 msgid "Short Edge (Flip)"
-msgstr "Kortsida (vänd)"
+msgstr "Kort kant (vändning)"
 
 #: src/Views/SetupView.vala:122
 msgid "Two-sided:"
@@ -692,10 +666,8 @@ msgid "Pause"
 msgstr "Pausa"
 
 #: src/Widgets/PrinterRow.vala:41
-#, fuzzy
-#| msgid "Remove Printer"
 msgid "Remove this printer"
-msgstr "Ta bort skrivare"
+msgstr "Ta bort denna skrivare"
 
 #: src/Widgets/PrinterRow.vala:128
 msgid "Disabled"
