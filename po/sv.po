@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-21 22:20+0000\n"
-"PO-Revision-Date: 2025-10-22 09:59+0000\n"
+"PO-Revision-Date: 2025-10-30 09:55+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
 "printers/sv/>\n"
@@ -46,11 +46,11 @@ msgstr "Siduppsättning"
 
 #: src/PrinterPage.vala:28
 msgid "Settings & Supplies"
-msgstr "Inställningar och utrustning"
+msgstr "Inställningar och förbrukningsmaterial"
 
 #: src/PrinterPage.vala:49
 msgid "Set as Default"
-msgstr "Sätt som standard"
+msgstr "Ange som standard"
 
 #: src/PrinterPage.vala:53
 msgid "Print Test Page"
@@ -64,27 +64,27 @@ msgstr "Testsida"
 #. / Tranlators: This is a protocol name, please keep the (https).
 #: src/Dialogs/AddDialog.vala:12
 msgid "Internet Printing Protocol (https)"
-msgstr "Internetutskriftsprotokoll (https)"
+msgstr "Internet Printing Protocol (https)"
 
 #. / Tranlators: This is a protocol name, please keep the (http).
 #: src/Dialogs/AddDialog.vala:14
 msgid "Internet Printing Protocol (http)"
-msgstr "Internetutskriftsprotokoll (http)"
+msgstr "Internet Printing Protocol (http)"
 
 #. / Tranlators: This is a protocol name, please keep the (ipp).
 #: src/Dialogs/AddDialog.vala:16
 msgid "Internet Printing Protocol (ipp)"
-msgstr "Internetutskriftsprotokoll (ipp)"
+msgstr "Internet Printing Protocol (ipp)"
 
 #. / Tranlators: This is a protocol name, please keep the (ipps).
 #: src/Dialogs/AddDialog.vala:18
 msgid "Internet Printing Protocol (ipps)"
-msgstr "Internetutskriftsprotokoll (ipps)"
+msgstr "Internet Printing Protocol (ipps)"
 
 #. / Tranlators: This is a protocol name, please keep the (ipp14).
 #: src/Dialogs/AddDialog.vala:20
 msgid "Internet Printing Protocol (ipp14)"
-msgstr "Internetutskriftsprotokoll (ipp14)"
+msgstr "Internet Printing Protocol (ipp14)"
 
 #. / Tranlators: This is a protocol name.
 #: src/Dialogs/AddDialog.vala:22
@@ -124,7 +124,7 @@ msgstr "Omöjligt att lista alla tillgängliga skrivare"
 
 #: src/Dialogs/AddDialog.vala:230
 msgid "Setup Error"
-msgstr "Setup fel"
+msgstr "Konfigurationsfel"
 
 #: src/Dialogs/AddDialog.vala:246
 msgid "Connection"
@@ -144,7 +144,7 @@ msgstr "Beskrivning"
 
 #: src/Dialogs/AddDialog.vala:267
 msgid "Description cannot be empty"
-msgstr "Beskrivning får inte vara tom"
+msgstr "Beskrivningen får inte vara tom"
 
 #: src/Dialogs/AddDialog.vala:273
 msgid "Lab 1 or John's desk"
@@ -172,7 +172,7 @@ msgstr "Inställning av skrivare"
 
 #: src/Dialogs/AddDialog.vala:654
 msgid "Serial"
-msgstr "Serie"
+msgstr "Seriell"
 
 #: src/Dialogs/AddDialog.vala:657
 msgid "Local Printers"
@@ -299,13 +299,13 @@ msgstr "Färg slut"
 #: src/Objects/Printer.vala:57
 msgctxt "printer state"
 msgid "Open cover"
-msgstr "Lock öppet"
+msgstr "Lucka öppen"
 
 #. / Translators: One or more doors on the printer are open
 #: src/Objects/Printer.vala:59
 msgctxt "printer state"
 msgid "Open door"
-msgstr "Lucka öppen"
+msgstr "Dörr öppen"
 
 #. / Translators: At least one input tray is low on media
 #: src/Objects/Printer.vala:61
@@ -373,11 +373,11 @@ msgstr "Det finns inga väntande utskrifter i kön."
 
 #: src/Views/JobsView.vala:107
 msgid "Completed Jobs"
-msgstr "Utförda jobb"
+msgstr "Slutförda jobb"
 
 #: src/Views/SetupView.vala:47
 msgid "Pages per side:"
-msgstr "Sida per blad:"
+msgstr "Sidor per blad:"
 
 #: src/Views/SetupView.vala:66
 msgctxt "printing option value"
@@ -395,19 +395,19 @@ msgstr "Dubbelsidig:"
 
 #: src/Views/SetupView.vala:140
 msgid "Portrait"
-msgstr "Porträtt"
+msgstr "Stående"
 
 #: src/Views/SetupView.vala:143
 msgid "Landscape"
-msgstr "Landskap"
+msgstr "Liggande"
 
 #: src/Views/SetupView.vala:146
 msgid "Reverse portrait"
-msgstr "Omvänt porträtt"
+msgstr "Omvänt stående"
 
 #: src/Views/SetupView.vala:149
 msgid "Reverse landscape"
-msgstr "Omvänt landskap"
+msgstr "Omvänt liggande"
 
 #: src/Views/SetupView.vala:158
 msgid "Orientation:"
@@ -463,7 +463,7 @@ msgstr "Bottenfack"
 
 #: src/Views/SetupView.vala:248
 msgid "Side Bin"
-msgstr "Sidfack"
+msgstr "Sidofack"
 
 #: src/Views/SetupView.vala:251
 msgid "Left Bin"
@@ -562,7 +562,7 @@ msgstr "Kontinuerlig automatning"
 
 #: src/Views/SetupView.vala:365
 msgid "Disk"
-msgstr "Lagringsenhet"
+msgstr "Disk"
 
 #: src/Views/SetupView.vala:368
 msgid "Envelope"
@@ -610,11 +610,11 @@ msgstr "Höger"
 
 #: src/Views/SetupView.vala:402
 msgid "Side"
-msgstr "Sidan"
+msgstr "Sida"
 
 #: src/Views/SetupView.vala:405
 msgid "Top"
-msgstr "Toppen"
+msgstr "Topp"
 
 #: src/Views/SetupView.vala:410
 #, c-format
