@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-21 22:20+0000\n"
-"PO-Revision-Date: 2025-10-24 04:55+0000\n"
+"PO-Revision-Date: 2025-10-30 09:55+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
 "printers-plug-extra/sv/>\n"
@@ -85,7 +85,7 @@ msgstr "Undvik att utöka fönstret för skrivare med många bläcknivåer"
 
 #: data/printers.metainfo.xml.in:85
 msgid "Use newer add/remove list pattern"
-msgstr "Använd ett nyare mönster för tilläggs-/avlägsnandelistor"
+msgstr "Använd ett nyare mönster för tilläggs-/borttagningslistor"
 
 #: data/printers.metainfo.xml.in:87
 msgid "Fixes:"
@@ -93,7 +93,7 @@ msgstr "Åtgärdar:"
 
 #: data/printers.metainfo.xml.in:89
 msgid "Update sidebar after adding or removing printer"
-msgstr "Uppdatera sidofältet när du har lagt till eller tagit bort skrivare"
+msgstr "Uppdatera sidofältet när skrivare lagts till eller tagits bort"
 
 #: data/printers.metainfo.xml.in:90
 msgid "Update sidebar after enabling or disabling printer"
@@ -101,4 +101,4 @@ msgstr "Uppdatera sidofältet efter aktivering eller inaktivering av skrivare"
 
 #: data/printers.metainfo.xml.in:91
 msgid "Update job list after job state change"
-msgstr "Uppdatera jobblistan efter ändring av jobbstatus"
+msgstr "Uppdatera jobblistan efter ändring av jobbtillstånd"
