@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-21 22:20+0000\n"
+"POT-Creation-Date: 2025-10-30 16:57+0000\n"
 "PO-Revision-Date: 2024-08-07 18:16+0000\n"
 "Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Italian <https://l10n.elementary.io/projects/switchboard/"
@@ -33,75 +33,77 @@ msgstr ""
 msgid "elementary, Inc."
 msgstr "elementary, Inc."
 
-#: data/printers.metainfo.xml.in:42 data/printers.metainfo.xml.in:52
-#: data/printers.metainfo.xml.in:66 data/printers.metainfo.xml.in:93
-#: data/printers.metainfo.xml.in:102 data/printers.metainfo.xml.in:111
+#: data/printers.metainfo.xml.in:42 data/printers.metainfo.xml.in:54
+#: data/printers.metainfo.xml.in:64 data/printers.metainfo.xml.in:78
+#: data/printers.metainfo.xml.in:105 data/printers.metainfo.xml.in:114
+#: data/printers.metainfo.xml.in:123
 msgid "Minor updates:"
 msgstr "Aggiornamenti minori:"
 
-#: data/printers.metainfo.xml.in:44
-msgid "Restore sidebar position"
-msgstr ""
-
-#: data/printers.metainfo.xml.in:45 data/printers.metainfo.xml.in:56
-#: data/printers.metainfo.xml.in:68 data/printers.metainfo.xml.in:95
-#: data/printers.metainfo.xml.in:104 data/printers.metainfo.xml.in:113
+#: data/printers.metainfo.xml.in:44 data/printers.metainfo.xml.in:57
+#: data/printers.metainfo.xml.in:68 data/printers.metainfo.xml.in:80
+#: data/printers.metainfo.xml.in:107 data/printers.metainfo.xml.in:116
+#: data/printers.metainfo.xml.in:125
 msgid "Updated translations"
 msgstr "Traduzioni aggiornate"
 
-#: data/printers.metainfo.xml.in:54
+#: data/printers.metainfo.xml.in:56
+msgid "Restore sidebar position"
+msgstr ""
+
+#: data/printers.metainfo.xml.in:66
 msgid "Improved screen reader support"
 msgstr ""
 
-#: data/printers.metainfo.xml.in:55
+#: data/printers.metainfo.xml.in:67
 msgid "Provide feedback for form validation when adding printers"
 msgstr ""
 
-#: data/printers.metainfo.xml.in:75
+#: data/printers.metainfo.xml.in:87
 msgid "New Features:"
 msgstr ""
 
-#: data/printers.metainfo.xml.in:77
+#: data/printers.metainfo.xml.in:89
 msgid "Allow clearing the queue for each printer"
 msgstr ""
 
-#: data/printers.metainfo.xml.in:79
+#: data/printers.metainfo.xml.in:91
 msgid "Improvements:"
 msgstr ""
 
-#: data/printers.metainfo.xml.in:81
+#: data/printers.metainfo.xml.in:93
 msgid "Improved job row layout"
 msgstr ""
 
-#: data/printers.metainfo.xml.in:82
+#: data/printers.metainfo.xml.in:94
 msgid "Show the supported language for each driver"
 msgstr ""
 
-#: data/printers.metainfo.xml.in:83
+#: data/printers.metainfo.xml.in:95
 msgid "Show color names below ink levels"
 msgstr ""
 
-#: data/printers.metainfo.xml.in:84
+#: data/printers.metainfo.xml.in:96
 msgid "Avoid expanding the window for printers with many ink levels"
 msgstr ""
 
-#: data/printers.metainfo.xml.in:85
+#: data/printers.metainfo.xml.in:97
 msgid "Use newer add/remove list pattern"
 msgstr ""
 
-#: data/printers.metainfo.xml.in:87
+#: data/printers.metainfo.xml.in:99
 msgid "Fixes:"
 msgstr ""
 
-#: data/printers.metainfo.xml.in:89
+#: data/printers.metainfo.xml.in:101
 msgid "Update sidebar after adding or removing printer"
 msgstr ""
 
-#: data/printers.metainfo.xml.in:90
+#: data/printers.metainfo.xml.in:102
 msgid "Update sidebar after enabling or disabling printer"
 msgstr ""
 
-#: data/printers.metainfo.xml.in:91
+#: data/printers.metainfo.xml.in:103
 msgid "Update job list after job state change"
 msgstr ""
 
