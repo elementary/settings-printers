@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-30 16:57+0000\n"
-"PO-Revision-Date: 2025-10-30 09:55+0000\n"
+"PO-Revision-Date: 2025-10-31 17:55+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
 "printers/sv/>\n"
@@ -598,7 +598,7 @@ msgstr "Mitten"
 
 #: src/Views/SetupView.vala:392
 msgid "Photo"
-msgstr "Foto"
+msgstr "Bild"
 
 #: src/Views/SetupView.vala:396
 msgid "Rear"
