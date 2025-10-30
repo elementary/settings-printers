@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-21 22:20+0000\n"
+"POT-Creation-Date: 2025-10-30 16:57+0000\n"
 "PO-Revision-Date: 2024-05-29 20:51+0000\n"
 "Last-Translator: Sven <622b1a13-49d8-4ace-bca7-48bff17b4780@unbox.at>\n"
 "Language-Team: Dutch <https://l10n.elementary.io/projects/switchboard/"
@@ -23,11 +23,11 @@ msgstr "Printers"
 msgid "Configure printers, manage print queues, and view ink levels"
 msgstr "Configureer printers, beheer printers en bekijk inkt levels"
 
-#: src/Plug.vala:37
+#: src/Plug.vala:44
 msgid "No Printers Available"
 msgstr "Geen printers beschikbaar"
 
-#: src/Plug.vala:38
+#: src/Plug.vala:45
 msgid "Connect to a printer by clicking the icon in the toolbar below."
 msgstr ""
 "Maak verbinding met een printer door op het icoon onderaan de zijbalk te "
