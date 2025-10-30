@@ -37,6 +37,18 @@
   <update_contact>contact_at_elementary.io</update_contact>
 
   <releases>
+    <release version="8.0.2" date="2025-10-29" urgency="medium">
+      <description>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+      <issues>
+        <issue url="https://github.com/elementary/settings-printers/pull/212">No maximize/unmaximize button in the headerbar</issue>
+      </issues>
+    </release>
+
     <release version="8.0.1" date="2024-10-21" urgency="medium">
       <description>
         <p>Minor updates:</p>
