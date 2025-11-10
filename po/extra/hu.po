@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-30 16:57+0000\n"
-"PO-Revision-Date: 2024-08-22 15:16+0000\n"
+"PO-Revision-Date: 2025-11-11 13:55+0000\n"
 "Last-Translator: TomiOhl <ohlslager.tom@gmail.com>\n"
-"Language-Team: Hungarian <https://l10n.elementary.io/projects/switchboard/"
+"Language-Team: Hungarian <https://l10n.elementaryos.org/projects/settings/"
 "printers-plug-extra/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: data/printers.metainfo.xml.in:10
 msgid "Printer Settings"
@@ -47,7 +47,7 @@ msgstr "Frissített fordítások"
 
 #: data/printers.metainfo.xml.in:56
 msgid "Restore sidebar position"
-msgstr ""
+msgstr "Az oldalsó panel helyzete visszaállítva"
 
 #: data/printers.metainfo.xml.in:66
 msgid "Improved screen reader support"
