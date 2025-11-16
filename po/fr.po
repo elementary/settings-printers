@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-21 22:20+0000\n"
+"POT-Creation-Date: 2025-10-30 16:57+0000\n"
 "PO-Revision-Date: 2024-04-30 08:13+0000\n"
 "Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
 "Language-Team: French <https://l10n.elementary.io/projects/switchboard/"
@@ -25,11 +25,11 @@ msgstr ""
 "Configurer les imprimantes, gérer la file d'impression et voir le niveau "
 "d'encre"
 
-#: src/Plug.vala:37
+#: src/Plug.vala:44
 msgid "No Printers Available"
 msgstr "Aucune imprimante disponible"
 
-#: src/Plug.vala:38
+#: src/Plug.vala:45
 msgid "Connect to a printer by clicking the icon in the toolbar below."
 msgstr ""
 "Connectez-vous à une imprimante en cliquant sur l'icône dans la barre "

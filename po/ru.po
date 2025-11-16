@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-21 22:20+0000\n"
+"POT-Creation-Date: 2025-10-30 16:57+0000\n"
 "PO-Revision-Date: 2025-05-21 21:55+0000\n"
 "Last-Translator: lenemter <lenemter@gmail.com>\n"
 "Language-Team: Russian <https://l10n.elementaryos.org/projects/settings/"
@@ -25,11 +25,11 @@ msgid "Configure printers, manage print queues, and view ink levels"
 msgstr ""
 "Настройка принтеров, управление очередью печати и просмотр уровня чернил"
 
-#: src/Plug.vala:37
+#: src/Plug.vala:44
 msgid "No Printers Available"
 msgstr "Нет доступных принтеров"
 
-#: src/Plug.vala:38
+#: src/Plug.vala:45
 msgid "Connect to a printer by clicking the icon in the toolbar below."
 msgstr "Подключитесь к принтеру, щелкнув значок на панели инструментов ниже."
 

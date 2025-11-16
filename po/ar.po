@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-21 22:20+0000\n"
+"POT-Creation-Date: 2025-10-30 16:57+0000\n"
 "PO-Revision-Date: 2023-02-18 10:25+0000\n"
 "Last-Translator: EpixMan <abdullahgtgt@gmail.com>\n"
 "Language-Team: Arabic <https://l10n.elementary.io/projects/switchboard/"
@@ -24,11 +24,11 @@ msgstr "الطابعات"
 msgid "Configure printers, manage print queues, and view ink levels"
 msgstr "خصص الطابعات، تحكم بالدور الخاص بالطباعة، والنظرإلى مستوى الحبر"
 
-#: src/Plug.vala:37
+#: src/Plug.vala:44
 msgid "No Printers Available"
 msgstr "لا توجد طابعات متاحة"
 
-#: src/Plug.vala:38
+#: src/Plug.vala:45
 msgid "Connect to a printer by clicking the icon in the toolbar below."
 msgstr "اتصل بطابعة بالضغط على الايقونة في شريط الادوات بالاسفل"
 

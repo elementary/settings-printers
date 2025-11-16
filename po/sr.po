@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-21 22:20+0000\n"
+"POT-Creation-Date: 2025-10-30 16:57+0000\n"
 "PO-Revision-Date: 2024-08-07 18:16+0000\n"
 "Last-Translator: anonymous <noreply@weblate.org>\n"
 "Language-Team: Serbian <https://l10n.elementary.io/projects/switchboard/"
@@ -29,11 +29,11 @@ msgstr "Штампачи"
 msgid "Configure printers, manage print queues, and view ink levels"
 msgstr "Подесите штампаче, управљајте редом штампе и видите нивое мастила"
 
-#: src/Plug.vala:37
+#: src/Plug.vala:44
 msgid "No Printers Available"
 msgstr "Нема доступних штампача"
 
-#: src/Plug.vala:38
+#: src/Plug.vala:45
 msgid "Connect to a printer by clicking the icon in the toolbar below."
 msgstr "Повежите се са ђтампачом кликом на иконицу на траци алата испод."
 
