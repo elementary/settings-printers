@@ -3,17 +3,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-30 16:57+0000\n"
-"PO-Revision-Date: 2024-08-07 18:16+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
-"Language-Team: Slovenian <https://l10n.elementary.io/projects/switchboard/"
-"switchboard-plug-printers/sl/>\n"
+"PO-Revision-Date: 2026-01-22 22:55+0000\n"
+"Last-Translator: Jernej Virag <jernej@virag.si>\n"
+"Language-Team: Slovenian <https://l10n.elementaryos.org/projects/settings/"
+"printers/sl/>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
 "n%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 5.11.4\n"
 "X-Launchpad-Export-Date: 2017-03-07 06:10+0000\n"
 
 #: src/Plug.vala:23
@@ -50,7 +50,7 @@ msgstr "Nastavitve in zaloge barv"
 
 #: src/PrinterPage.vala:49
 msgid "Set as Default"
-msgstr ""
+msgstr "Nastavi kot privzeto"
 
 #: src/PrinterPage.vala:53
 msgid "Print Test Page"
@@ -114,10 +114,8 @@ msgid "Next"
 msgstr "Naprej"
 
 #: src/Dialogs/AddDialog.vala:107
-#, fuzzy
-#| msgid "Network Printers"
 msgid "Select Printer"
-msgstr "Mrežni tiskalniki"
+msgstr "Izberite tiskalnik"
 
 #. Shows the error panel
 #: src/Dialogs/AddDialog.vala:210
@@ -126,61 +124,51 @@ msgstr "Ni bilo mogoče izpisati vseh tiskalnikov"
 
 #: src/Dialogs/AddDialog.vala:230
 msgid "Setup Error"
-msgstr ""
+msgstr "Napaka pri nastavitvi"
 
 #: src/Dialogs/AddDialog.vala:246
-#, fuzzy
-#| msgid "Connection:"
 msgid "Connection"
-msgstr "Povezava:"
+msgstr "Povezava"
 
 #: src/Dialogs/AddDialog.vala:251
 msgid "Connection uri must contain “://“"
-msgstr ""
+msgstr "Naslov povezave mora vključevati \"://\""
 
 #: src/Dialogs/AddDialog.vala:258 src/Views/SuppliesView.vala:25
 msgid "BrandPrinter X3000"
 msgstr "ZnamkaTiskalnika X3000"
 
 #: src/Dialogs/AddDialog.vala:262 src/Views/SuppliesView.vala:28
-#, fuzzy
-#| msgid "Description:"
 msgid "Description"
-msgstr "Opis:"
+msgstr "Opis"
 
 #: src/Dialogs/AddDialog.vala:267
 msgid "Description cannot be empty"
-msgstr ""
+msgstr "Opis ne sme biti prazen"
 
 #: src/Dialogs/AddDialog.vala:273
 msgid "Lab 1 or John's desk"
 msgstr "Laboratorij 1 ali Janezova miza"
 
 #: src/Dialogs/AddDialog.vala:276 src/Views/SuppliesView.vala:36
-#, fuzzy
-#| msgid "Location:"
 msgid "Location"
-msgstr "Lokacija:"
+msgstr "Lokacija"
 
 #: src/Dialogs/AddDialog.vala:304
-#, fuzzy
-#| msgid "Processing…"
 msgid "Loading…"
-msgstr "Obdelovanje…"
+msgstr "Nalaganje…"
 
 #: src/Dialogs/AddDialog.vala:337
 msgid "Back"
-msgstr ""
+msgstr "Nazaj"
 
 #: src/Dialogs/AddDialog.vala:341
 msgid "Add Printer"
 msgstr "Dodaj tiskalnik"
 
 #: src/Dialogs/AddDialog.vala:382
-#, fuzzy
-#| msgid "Page Setup"
 msgid "Printer Setup"
-msgstr "Priprava strani"
+msgstr "Nastavitve tiskalnika"
 
 #: src/Dialogs/AddDialog.vala:654
 msgid "Serial"
@@ -205,12 +193,14 @@ msgstr "(priporočeno)"
 #: src/Dialogs/ClearQueueDialog.vala:16
 #, c-format
 msgid "Clear all pending and completed jobs from “%s”?"
-msgstr ""
+msgstr "Počistim vse čakajoča in zaključena opravila na “%s”?"
 
 #: src/Dialogs/ClearQueueDialog.vala:17
 msgid ""
 "All unfinished jobs will be canceled and all print history will be erased."
 msgstr ""
+"Vsa nedokončana opravila bodo preklicana in vsa zgodovina tiskanja bo "
+"pobrisana."
 
 #: src/Dialogs/ClearQueueDialog.vala:22 src/Views/JobsView.vala:37
 msgid "Clear All"
@@ -235,15 +225,11 @@ msgid "Remove"
 msgstr "Odstrani"
 
 #: src/Objects/Job.vala:142
-#, fuzzy
-#| msgid "Job Pending"
 msgctxt "Print Job"
 msgid "Pending"
-msgstr "Opravilo čaka"
+msgstr "Čaka"
 
 #: src/Objects/Job.vala:144
-#, fuzzy
-#| msgid "On Hold"
 msgctxt "Print Job"
 msgid "On Hold"
 msgstr "Na čakanju"
@@ -251,36 +237,27 @@ msgstr "Na čakanju"
 #: src/Objects/Job.vala:146
 msgctxt "Print Job"
 msgid "In Progress"
-msgstr ""
+msgstr "Poteka"
 
 #: src/Objects/Job.vala:148
-#, fuzzy
-#| msgctxt "printer state"
-#| msgid "Stopped"
 msgctxt "Print Job"
 msgid "Stopped"
 msgstr "Ustavljen"
 
 #: src/Objects/Job.vala:150
-#, fuzzy
-#| msgid "Cancel"
 msgctxt "Print Job"
 msgid "Canceled"
-msgstr "Prekliči"
+msgstr "Preklicano"
 
 #: src/Objects/Job.vala:152
-#, fuzzy
-#| msgid "Job Aborted"
 msgctxt "Print Job"
 msgid "Aborted"
-msgstr "Opravilo preklicano"
+msgstr "Ustavljeno"
 
 #: src/Objects/Job.vala:155
-#, fuzzy
-#| msgid "Job Completed"
 msgctxt "Print Job"
 msgid "Completed"
-msgstr "Opravilo končano"
+msgstr "Končano"
 
 #. / Translators: The printer is low on toner
 #: src/Objects/Printer.vala:45
@@ -689,8 +666,6 @@ msgid "Pause"
 msgstr "Premor"
 
 #: src/Widgets/PrinterRow.vala:41
-#, fuzzy
-#| msgid "Remove Printer"
 msgid "Remove this printer"
 msgstr "Odstrani tiskalnik"
 
