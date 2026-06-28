@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-30 16:57+0000\n"
-"PO-Revision-Date: 2024-08-07 18:16+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
-"Language-Team: Greek <https://l10n.elementary.io/projects/switchboard/"
+"PO-Revision-Date: 2026-06-29 01:01+0000\n"
+"Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
+"Language-Team: Greek <https://l10n.elementaryos.org/projects/settings/"
 "printers-plug-extra/el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 2026.5\n"
 
 #: data/printers.metainfo.xml.in:10
 msgid "Printer Settings"
@@ -29,21 +29,21 @@ msgstr ""
 
 #: data/printers.metainfo.xml.in:34
 msgid "elementary, Inc."
-msgstr ""
+msgstr "elementary, Inc."
 
 #: data/printers.metainfo.xml.in:42 data/printers.metainfo.xml.in:54
 #: data/printers.metainfo.xml.in:64 data/printers.metainfo.xml.in:78
 #: data/printers.metainfo.xml.in:105 data/printers.metainfo.xml.in:114
 #: data/printers.metainfo.xml.in:123
 msgid "Minor updates:"
-msgstr ""
+msgstr "Μικρές ενημερώσεις:"
 
 #: data/printers.metainfo.xml.in:44 data/printers.metainfo.xml.in:57
 #: data/printers.metainfo.xml.in:68 data/printers.metainfo.xml.in:80
 #: data/printers.metainfo.xml.in:107 data/printers.metainfo.xml.in:116
 #: data/printers.metainfo.xml.in:125
 msgid "Updated translations"
-msgstr ""
+msgstr "Ενημερωμένες μεταφράσεις"
 
 #: data/printers.metainfo.xml.in:56
 msgid "Restore sidebar position"
@@ -67,7 +67,7 @@ msgstr ""
 
 #: data/printers.metainfo.xml.in:91
 msgid "Improvements:"
-msgstr ""
+msgstr "Βελτιώσεις:"
 
 #: data/printers.metainfo.xml.in:93
 msgid "Improved job row layout"
@@ -91,7 +91,7 @@ msgstr ""
 
 #: data/printers.metainfo.xml.in:99
 msgid "Fixes:"
-msgstr ""
+msgstr "Διορθώσεις:"
 
 #: data/printers.metainfo.xml.in:101
 msgid "Update sidebar after adding or removing printer"
