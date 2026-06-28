@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-30 16:57+0000\n"
-"PO-Revision-Date: 2024-08-07 18:16+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
-"Language-Team: Greek <https://l10n.elementary.io/projects/switchboard/"
-"switchboard-plug-printers/el/>\n"
+"PO-Revision-Date: 2026-06-29 01:01+0000\n"
+"Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
+"Language-Team: Greek <https://l10n.elementaryos.org/projects/settings/"
+"printers/el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 2026.5\n"
 "X-Launchpad-Export-Date: 2017-03-07 06:09+0000\n"
 
 #: src/Plug.vala:23
@@ -34,7 +34,7 @@ msgstr ""
 
 #: src/PrinterList.vala:41
 msgid "Add Printer…"
-msgstr "Προσθήκη εκτυπωτή..."
+msgstr "Προσθήκη εκτυπωτή…"
 
 #: src/PrinterPage.vala:26
 #, fuzzy
@@ -130,10 +130,8 @@ msgid "Setup Error"
 msgstr ""
 
 #: src/Dialogs/AddDialog.vala:246
-#, fuzzy
-#| msgid "Connection:"
 msgid "Connection"
-msgstr "Σύνδεση:"
+msgstr "Σύνδεση"
 
 #: src/Dialogs/AddDialog.vala:251
 msgid "Connection uri must contain “://“"
@@ -144,10 +142,8 @@ msgid "BrandPrinter X3000"
 msgstr ""
 
 #: src/Dialogs/AddDialog.vala:262 src/Views/SuppliesView.vala:28
-#, fuzzy
-#| msgid "Description:"
 msgid "Description"
-msgstr "Περιγραφή:"
+msgstr "Περιγραφή"
 
 #: src/Dialogs/AddDialog.vala:267
 msgid "Description cannot be empty"
@@ -158,14 +154,12 @@ msgid "Lab 1 or John's desk"
 msgstr ""
 
 #: src/Dialogs/AddDialog.vala:276 src/Views/SuppliesView.vala:36
-#, fuzzy
-#| msgid "Location:"
 msgid "Location"
-msgstr "Τοποθεσία:"
+msgstr "Τοποθεσία"
 
 #: src/Dialogs/AddDialog.vala:304
 msgid "Loading…"
-msgstr ""
+msgstr "Φόρτωση…"
 
 #: src/Dialogs/AddDialog.vala:337
 msgid "Back"
@@ -199,7 +193,7 @@ msgstr "Διαθέσιμοι εκτυπωτές δικτύου"
 
 #: src/Dialogs/AddDialog.vala:702
 msgid "(recommended)"
-msgstr ""
+msgstr "(προτείνεται)"
 
 #: src/Dialogs/ClearQueueDialog.vala:16
 #, c-format
@@ -213,7 +207,7 @@ msgstr ""
 
 #: src/Dialogs/ClearQueueDialog.vala:22 src/Views/JobsView.vala:37
 msgid "Clear All"
-msgstr "Εκκαθάριση όλων"
+msgstr "Απαλοιφή όλων"
 
 #: src/Dialogs/RemoveDialog.vala:15
 #, c-format
@@ -221,13 +215,13 @@ msgid "Are You Sure You Want To Remove '%s'?"
 msgstr ""
 
 #: src/Dialogs/RemoveDialog.vala:16
-#, fuzzy, c-format
+#, c-format
 msgid ""
 "By removing '%s' you'll lose all print history and configuration associated "
 "with it."
 msgstr ""
-"Αφαιρώντας τον '%s' θα χάσετε όλο το ιστορικό εκτυπώσεων σας\n"
-"καθώς και τις παραμέτρους ρύθμισης του"
+"Αφαιρώντας τη συσκευή «%s», θα χάσετε όλο το ιστορικό εκτυπώσεων και τις "
+"ρυθμίσεις που σχετίζονται με αυτή."
 
 #: src/Dialogs/RemoveDialog.vala:21
 msgid "Remove"
@@ -236,7 +230,7 @@ msgstr "Αφαίρεση"
 #: src/Objects/Job.vala:142
 msgctxt "Print Job"
 msgid "Pending"
-msgstr ""
+msgstr "Σε εκκρεμότητα"
 
 #: src/Objects/Job.vala:144
 msgctxt "Print Job"
@@ -575,11 +569,11 @@ msgstr ""
 
 #: src/Views/SetupView.vala:365
 msgid "Disk"
-msgstr ""
+msgstr "Δίσκος"
 
 #: src/Views/SetupView.vala:368
 msgid "Envelope"
-msgstr ""
+msgstr "Φάκελος"
 
 #: src/Views/SetupView.vala:371
 msgid "Hagaki"
@@ -611,7 +605,7 @@ msgstr ""
 
 #: src/Views/SetupView.vala:392
 msgid "Photo"
-msgstr ""
+msgstr "Φωτογραφία"
 
 #: src/Views/SetupView.vala:396
 msgid "Rear"
@@ -660,11 +654,11 @@ msgstr "Κίτρινο"
 
 #: src/Views/SuppliesView.vala:132
 msgid "Cyan"
-msgstr ""
+msgstr "Κυανό"
 
 #: src/Views/SuppliesView.vala:136
 msgid "Magenta"
-msgstr ""
+msgstr "Ματζέντα"
 
 #: src/Views/SuppliesView.vala:138
 msgid "Tri-color"
@@ -672,7 +666,7 @@ msgstr ""
 
 #: src/Widgets/JobRow.vala:153
 msgid "Resume"
-msgstr ""
+msgstr "Συνέχιση"
 
 #: src/Widgets/JobRow.vala:158
 msgid "Pause"
