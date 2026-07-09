@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-30 16:57+0000\n"
-"PO-Revision-Date: 2026-06-29 01:01+0000\n"
+"PO-Revision-Date: 2026-07-10 16:00+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: Greek <https://l10n.elementaryos.org/projects/settings/"
 "printers-plug-extra/el/>\n"
@@ -59,7 +59,7 @@ msgstr ""
 
 #: data/printers.metainfo.xml.in:87
 msgid "New Features:"
-msgstr ""
+msgstr "Νέες λειτουργίες:"
 
 #: data/printers.metainfo.xml.in:89
 msgid "Allow clearing the queue for each printer"
