@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-30 16:57+0000\n"
-"PO-Revision-Date: 2026-06-30 12:56+0000\n"
+"PO-Revision-Date: 2026-07-25 20:01+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: Greek <https://l10n.elementaryos.org/projects/settings/"
 "printers/el/>\n"
@@ -65,27 +65,27 @@ msgstr "Δοκιμαστική σελίδα"
 #. / Tranlators: This is a protocol name, please keep the (https).
 #: src/Dialogs/AddDialog.vala:12
 msgid "Internet Printing Protocol (https)"
-msgstr ""
+msgstr "Διαδικτυακό πρωτόκολλο εκτύπωσης (https)"
 
 #. / Tranlators: This is a protocol name, please keep the (http).
 #: src/Dialogs/AddDialog.vala:14
 msgid "Internet Printing Protocol (http)"
-msgstr ""
+msgstr "Διαδικτυακό πρωτόκολλο εκτύπωσης (http)"
 
 #. / Tranlators: This is a protocol name, please keep the (ipp).
 #: src/Dialogs/AddDialog.vala:16
 msgid "Internet Printing Protocol (ipp)"
-msgstr ""
+msgstr "Διαδικτυακό πρωτόκολλο εκτύπωσης (ipp)"
 
 #. / Tranlators: This is a protocol name, please keep the (ipps).
 #: src/Dialogs/AddDialog.vala:18
 msgid "Internet Printing Protocol (ipps)"
-msgstr ""
+msgstr "Διαδικτυακό πρωτόκολλο εκτύπωσης (ipps)"
 
 #. / Tranlators: This is a protocol name, please keep the (ipp14).
 #: src/Dialogs/AddDialog.vala:20
 msgid "Internet Printing Protocol (ipp14)"
-msgstr ""
+msgstr "Διαδικτυακό πρωτόκολλο εκτύπωσης (ipp14)"
 
 #. / Tranlators: This is a protocol name.
 #: src/Dialogs/AddDialog.vala:22
@@ -99,7 +99,7 @@ msgstr "AppSocket/HP JetDirect"
 
 #: src/Dialogs/AddDialog.vala:54
 msgid "Finding nearby printers…"
-msgstr ""
+msgstr "Εύρεση κοντινών εκτυπωτών…"
 
 #: src/Dialogs/AddDialog.vala:80
 msgid "Refresh"
@@ -168,10 +168,8 @@ msgid "Add Printer"
 msgstr "Προσθήκη εκτυπωτή"
 
 #: src/Dialogs/AddDialog.vala:382
-#, fuzzy
-#| msgid "Printers"
 msgid "Printer Setup"
-msgstr "Εκτυπωτές"
+msgstr "Ρύθμιση εκτυπωτή"
 
 #: src/Dialogs/AddDialog.vala:654
 msgid "Serial"
@@ -233,12 +231,12 @@ msgstr "Σε εκκρεμότητα"
 #: src/Objects/Job.vala:144
 msgctxt "Print Job"
 msgid "On Hold"
-msgstr ""
+msgstr "Σε αναμονή"
 
 #: src/Objects/Job.vala:146
 msgctxt "Print Job"
 msgid "In Progress"
-msgstr ""
+msgstr "Σε εξέλιξη"
 
 #: src/Objects/Job.vala:148
 msgctxt "Print Job"
@@ -357,9 +355,8 @@ msgid "The optical photo conductor is no longer functioning"
 msgstr ""
 
 #: src/Objects/Printer.vala:149
-#, fuzzy
 msgid "Unnamed Printer"
-msgstr "Προσθήκη εκτυπωτή"
+msgstr "Ανώνυμος εκτυπωτής"
 
 #: src/Objects/Printer.vala:222
 msgid "Ready"
@@ -497,7 +494,7 @@ msgstr ""
 
 #: src/Views/SetupView.vala:272
 msgid "My Mailbox"
-msgstr ""
+msgstr "Το γραμματοκιβώτιό μου"
 
 #: src/Views/SetupView.vala:277
 #, c-format
@@ -520,15 +517,15 @@ msgstr "Δίσκος εξόδου:"
 
 #: src/Views/SetupView.vala:312
 msgid "Draft"
-msgstr "Πρόχειρο"
+msgstr "Προσχέδιο"
 
 #: src/Views/SetupView.vala:315
 msgid "Normal"
-msgstr "Κανονική λειτουργία"
+msgstr "Κανονική"
 
 #: src/Views/SetupView.vala:318
 msgid "High"
-msgstr "Υψηλό"
+msgstr "Υψηλή"
 
 #: src/Views/SetupView.vala:324
 msgid "Quality:"
@@ -576,7 +573,7 @@ msgstr "Hagaki"
 
 #: src/Views/SetupView.vala:374
 msgid "Large Capacity"
-msgstr ""
+msgstr "Μεγάλη χωρητικότητα"
 
 #: src/Views/SetupView.vala:377
 msgid "Left"
@@ -633,11 +630,11 @@ msgstr ""
 
 #: src/Views/SuppliesView.vala:117
 msgid "Black (PGBK)"
-msgstr ""
+msgstr "Μαύρο (PGBK)"
 
 #: src/Views/SuppliesView.vala:120
 msgid "Black (BK)"
-msgstr ""
+msgstr "Μαύρο (BK)"
 
 #: src/Views/SuppliesView.vala:124
 msgid "Black"
