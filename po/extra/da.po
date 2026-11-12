@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-30 16:57+0000\n"
-"PO-Revision-Date: 2026-10-24 20:04+0000\n"
+"PO-Revision-Date: 2026-11-13 21:04+0000\n"
 "Last-Translator: CodeBeats <nicholai67@hotmail.com>\n"
 "Language-Team: Danish <https://l10n.elementaryos.org/projects/settings/"
 "printers-plug-extra/da/>\n"
@@ -36,7 +36,7 @@ msgstr ""
 #: data/printers.metainfo.xml.in:105 data/printers.metainfo.xml.in:114
 #: data/printers.metainfo.xml.in:123
 msgid "Minor updates:"
-msgstr ""
+msgstr "Mindre opdateringer:"
 
 #: data/printers.metainfo.xml.in:44 data/printers.metainfo.xml.in:57
 #: data/printers.metainfo.xml.in:68 data/printers.metainfo.xml.in:80
